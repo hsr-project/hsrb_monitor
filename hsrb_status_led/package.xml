@@ -1,7 +1,7 @@
 <package format="3">
   <name>hsrb_status_led</name>
-  <version>2.0.0</version>
-  <description>Status LED controller</description>
+  <version>3.0.0</version>
+  <description>A node to control the status indicator LED</description>
   <maintainer email="xr-hsr-support@mail.toyota.co.jp">HSR Support</maintainer>
 
   <license>BSD 3-clause Clear License</license>
